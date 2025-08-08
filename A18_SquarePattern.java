@@ -12,7 +12,5 @@ public class A18_SquarePattern {
             }
             System.out.println();
         }
-
-
     }
 }
