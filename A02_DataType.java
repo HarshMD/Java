@@ -1,4 +1,4 @@
-public class A2_DataType {
+public class A02_DataType {
     public static void main(String[] args){
         int b = 12;
         System.out.println(b);

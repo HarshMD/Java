@@ -1,4 +1,4 @@
-public class A6_TypePromotion {
+public class A06_TypePromotion {
     public static void main(String[] args){
         char a = 'a';
         char b = 'b';

@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class A4_TypeConversion {
+public class A04_TypeConversion {
     public static void main(String[] args){
         // long a = 25;
         // int b = a; // will give error (lossy conversion)
