@@ -1,4 +1,4 @@
-public class A34_HollowRectPatt {
+public class A32_HollowRectPatt {
     public static void hollow_rect(int totRows, int totCols){
         for(int i=1; i<=totRows; i++){
             for(int j=1; j<=totCols; j++){
