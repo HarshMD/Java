@@ -1,4 +1,4 @@
-
+// Time complexity O(n^2)
 
 public class A49_PrefixMaxSubArray {
     public static void printSubArrays(int[] numbers){
