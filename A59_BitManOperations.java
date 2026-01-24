@@ -1,4 +1,4 @@
-public class A59_BitOddOrEven {
+public class A59_BitManOperations {
     public static void oddOrEven(int n){
         int bitMask = 1;
 
